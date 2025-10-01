@@ -5,12 +5,12 @@ Here’s a list of my contributions, organized by the organizations I’ve contr
 
 ---
 
-## [Neuroinformatics unit]([https://github.com/org1](https://github.com/brainglobe/cellfinder))
-- [Clean up TensorFlow-related code after migrating to Keras 3.0 with PyTorch backend]((https://github.com/brainglobe/cellfinder/pull/523))
-- [Implemented search space restrictions in all dimensions (z, y, x) for cell detection]((https://github.com/brainglobe/cellfinder/pull/525))
-- [Added tests for no cell(or empty) detections]((https://github.com/brainglobe/cellfinder/pull/516))
-- [Error raised when no cells detected](https://github.com/brainglobe/cellfinder/pull/514))
-- [Add hover tooltip step to visualize atlas tutorial]((https://github.com/brainglobe/brainglobe.github.io/pull/318)))
+## [Neuroinformatics unit](https://github.com/org1](https://github.com/brainglobe/cellfinder)
+- [Clean up TensorFlow-related code after migrating to Keras 3.0 with PyTorch backend](https://github.com/brainglobe/cellfinder/pull/523)
+- [Implemented search space restrictions in all dimensions (z, y, x) for cell detection](https://github.com/brainglobe/cellfinder/pull/525)
+- [Added tests for no cell(or empty) detections](https://github.com/brainglobe/cellfinder/pull/516)
+- [Error raised when no cells detected](https://github.com/brainglobe/cellfinder/pull/514)
+- [Add hover tooltip step to visualize atlas tutorial](https://github.com/brainglobe/brainglobe.github.io/pull/318))
 - [Add a documentation for troubleshooting steps in the cellfinder cell detection process](https://github.com/brainglobe/brainglobe.github.io/issues/322)
 
 ---
